@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Refresh Development Environment" type="ShConfigurationType">
+  <configuration default="false" name="Refresh Development Environment [SH]" type="ShConfigurationType">
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="$PROJECT_DIR$/refresh-dev-env.sh" />
     <option name="SCRIPT_OPTIONS" value="" />
