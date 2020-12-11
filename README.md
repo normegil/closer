@@ -17,3 +17,4 @@ Available handlers:
 * [DiscardErrorHandler](https://pkg.go.dev/github.com/normegil/closer#DiscardErrorHandler)
 * [LogErrorHandler](https://pkg.go.dev/github.com/normegil/closer#LogErrorHandler)
 * [FuncErrorHandler](https://pkg.go.dev/github.com/normegil/closer#FuncErrorHandler)
+* [PanicErrorHandler](https://pkg.go.dev/github.com/normegil/closer#PanicErrorHandler)
